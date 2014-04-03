@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal
+END
+i2c1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/i2c1.c
+END
+tim4_pwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/tim4_pwm.c
+END
+ClkGen.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/ClkGen.c
+END
+i2c1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/i2c1.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/stm32f10x_it.c
+END
+hal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/hal.c
+END
+tim4_pwm.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/tim4_pwm.h
+END
+clkgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/clkgen.h
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/stm32f10x_it.h
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/uart.c
+END
+spi1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/spi1.c
+END
+spi2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/spi2.c
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/uart.h
+END
+spi1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/spi1.h
+END
+spi2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/spi2.h
+END
+ds1086.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/ds1086.c
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/adc.c
+END
+ds1086.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/ds1086.h
+END
+adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/src/hal/adc.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL
+END
+stm32_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/stm32_eval.c
+END
+stm32_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/stm32_eval.h
+END
+Release_Notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/Release_Notes.html
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images
+END
+STM3210E-EVAL_XL_AudioSpeaker.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_XL_AudioSpeaker.dfu
+END
+STM3210B-EVAL_MassStorage.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210B-EVAL_MassStorage.dfu
+END
+STM32L152-EVAL_MassStorage.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM32L152-EVAL_MassStorage.dfu
+END
+STM3210C-EVAL_MassStorage.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_MassStorage.dfu
+END
+STM3210B-EVAL_VirtualCOMPort.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210B-EVAL_VirtualCOMPort.dfu
+END
+STM32L152-EVAL_VirtualCOMPort.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM32L152-EVAL_VirtualCOMPort.dfu
+END
+STM3210C-EVAL_VirtualCOMPort.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_VirtualCOMPort.dfu
+END
+STM3210E-EVAL_MassStorage.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_MassStorage.dfu
+END
+STM3210E-EVAL_VirtualCOMPort.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_VirtualCOMPort.dfu
+END
+STM3210E-EVAL_XL_MassStorage.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_XL_MassStorage.dfu
+END
+STM32L152-EVAL_Custom_HID.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM32L152-EVAL_Custom_HID.dfu
+END
+STM3210B-EVAL_CustomHID.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210B-EVAL_CustomHID.dfu
+END
+STM3210C-EVAL_AudioStreaming_14MHz.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_AudioStreaming_14MHz.dfu
+END
+STM3210E-EVAL_XL_VirtualCOMPort.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_XL_VirtualCOMPort.dfu
+END
+STM3210C-EVAL_CustomHID.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_CustomHID.dfu
+END
+STM3210C-EVAL_AudioStreaming_25MHz.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_AudioStreaming_25MHz.dfu
+END
+STM3210E-EVAL_CustomHID.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_CustomHID.dfu
+END
+STM3210E-EVAL_XL_CustomHID.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_XL_CustomHID.dfu
+END
+STM3210B-EVAL_JoystickMouse.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210B-EVAL_JoystickMouse.dfu
+END
+STM3210C-EVAL_JoyStickMouse.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210C-EVAL_JoyStickMouse.dfu
+END
+STM32L152-EVAL_JoyStickMouse.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM32L152-EVAL_JoyStickMouse.dfu
+END
+STM3210E-EVAL_JoystickMouse.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_JoystickMouse.dfu
+END
+STM3210B-EVAL_AudioSpeaker.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210B-EVAL_AudioSpeaker.dfu
+END
+STM32L152-EVAL_AudioSpeaker.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM32L152-EVAL_AudioSpeaker.dfu
+END
+STM3210E-EVAL_XL_JoyStickMouse.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_XL_JoyStickMouse.dfu
+END
+STM3210E-EVAL_AudioSpeaker.dfu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/DFU_images/STM3210E-EVAL_AudioSpeaker.dfu
+END

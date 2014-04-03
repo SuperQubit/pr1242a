@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL
+END
+stm32100e_eval_cec.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_cec.c
+END
+stm32100e_eval_fsmc_onenand.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_fsmc_onenand.c
+END
+stm32100e_eval_fsmc_sram.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_fsmc_sram.c
+END
+stm32100e_eval_ioe.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_ioe.c
+END
+stm32100e_eval_cec.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_cec.h
+END
+stm32100e_eval_fsmc_onenand.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_fsmc_onenand.h
+END
+stm32100e_eval_fsmc_sram.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_fsmc_sram.h
+END
+stm32100e_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval.c
+END
+stm32100e_eval_ioe.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_ioe.h
+END
+stm32100e_eval_lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_lcd.c
+END
+stm32100e_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval.h
+END
+stm32100e_eval_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/STM32_EVAL/STM32100E_EVAL/stm32100e_eval_lcd.h
+END

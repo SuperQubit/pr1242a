@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/inc
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/inc/stm32f10x_conf.h
+END
+bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/inc/bsp.h
+END
+hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/inc/hal.h
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/inc/includes.h
+END

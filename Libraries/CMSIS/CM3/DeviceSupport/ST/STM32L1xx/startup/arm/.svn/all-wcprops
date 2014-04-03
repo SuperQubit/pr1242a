@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/startup/arm
+END
+startup_stm32l1xx_md.s
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/startup/arm/startup_stm32l1xx_md.s
+END

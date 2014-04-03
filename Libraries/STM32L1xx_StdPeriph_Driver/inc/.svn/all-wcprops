@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/misc.h
+END
+stm32l1xx_adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_adc.h
+END
+stm32l1xx_dac.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_dac.h
+END
+stm32l1xx_rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_rtc.h
+END
+stm32l1xx_tim.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_tim.h
+END
+stm32l1xx_iwdg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_iwdg.h
+END
+stm32l1xx_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_spi.h
+END
+stm32l1xx_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_flash.h
+END
+stm32l1xx_usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_usart.h
+END
+stm32l1xx_syscfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_syscfg.h
+END
+stm32l1xx_comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_comp.h
+END
+stm32l1xx_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_gpio.h
+END
+stm32l1xx_dbgmcu.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_dbgmcu.h
+END
+stm32l1xx_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_dma.h
+END
+stm32l1xx_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_lcd.h
+END
+stm32l1xx_rcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_rcc.h
+END
+stm32l1xx_crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_crc.h
+END
+stm32l1xx_pwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_pwr.h
+END
+stm32l1xx_wwdg.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_wwdg.h
+END
+stm32l1xx_exti.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_exti.h
+END
+stm32l1xx_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/STM32L1xx_StdPeriph_Driver/inc/stm32l1xx_i2c.h
+END

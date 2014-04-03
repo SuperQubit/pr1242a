@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/startup/gcc_ride7
+END
+startup_stm32l1xx_md.s
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/startup/gcc_ride7/startup_stm32l1xx_md.s
+END

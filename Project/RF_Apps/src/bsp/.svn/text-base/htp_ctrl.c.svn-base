@@ -1,0 +1,121 @@
+/**
+  ******************************************************************************
+  * @file    htp_ctrl.c
+  * @author  DL
+  * @version V1.00
+  * @date    26-06-2013
+  * @brief   This file provides all the HTP protocol decoder firmware functions.
+  ******************************************************************************
+  * @attention
+  *
+  *
+  * <h2><center>&copy; COPYRIGHT 2013 ArSilicii</center></h2>
+  ******************************************************************************
+  */
+
+/* Includes ------------------------------------------------------------------*/
+#include <stdio.h>
+#include "stm32F10x.h"
+#include "hal.h"
+#include "bsp.h"
+#include "..\control.h"
+#include "htp_ctrl.h"
+
+
+volatile tHTPMailBox HTPMsg;
+
+void HTP_MessageHandler(void)
+{
+		HTPMsg.InMessage.PercPower=   SPI2RX_PERCPOWER;
+		HTPMsg.InMessage.Frequenza=   SPI2RX_FREQUENZA;	
+	  HTPMsg.InMessage.Manipolo=    SPI2RX_MANIPOLO;
+		HTPMsg.InMessage.Modulazione= SPI2RX_MODULATOR;	
+	  HTPMsg.Status=1;
+}
+
+void HTP_MessageFiller(void)
+{	
+	/*
+	if(  FGauge.PPout >=0 )SPI2TX_ACTPOWERR= (uint8_t) FGauge.PPout; else  SPI2TX_ACTPOWERR=0;
+	SPI2TX_APPPOWER=(uint8_t) FGauge.PAout ;
+	SPI2TX_RCTPOWER=(uint8_t) FGauge.PQout ;	
+	SPI2TX_PERCPOWER=HTPMsg.InMessage.PercPower;
+	SPI2TX_FREQUENZA=HTPMsg.InMessage.Frequenza;
+	SPI2TX_FREQREAL= HTPMsg.InMessage.Frequenza ;
+	SPI2TX_MANIPOLOL= HTPMsg.InMessage.Manipolo | (0?0:128);
+	SPI2TX_MODULATOR= HTPMsg.InMessage.Modulazione;
+	*/
+	if(  FGauge.PPout >=0 )HTPMsg.OutMessage.Power_Active= (uint8_t) FGauge.PPout; else  HTPMsg.OutMessage.Power_Active=0;
+	HTPMsg.OutMessage.Power_App=(uint8_t) FGauge.PAout ;
+	HTPMsg.OutMessage.Power_Reactive=(uint8_t) FGauge.PQout ;	
+	HTPMsg.OutMessage.PercPowerActual=HTPMsg.InMessage.PercPower;
+	HTPMsg.OutMessage.Frequenza=HTPMsg.InMessage.Frequenza;
+	HTPMsg.OutMessage.FrequenzaReal= HTPMsg.InMessage.Frequenza ;
+	HTPMsg.OutMessage.Manipolo= HTPMsg.InMessage.Manipolo;
+	HTPMsg.OutMessage.ModulatoreActual= CONTROL_GetPulseStatus()? HTPMsg.InMessage.Modulazione: 0;
+	HTPMsg.OutMessage.LoadStatus= CONTROL_GetLoadStatus(); 
+}
+
+void HTP_MessageSampler(void)
+{	
+	SPI2TX_ACTPOWERR= HTPMsg.OutMessage.Power_Active;
+	SPI2TX_APPPOWER= HTPMsg.OutMessage.Power_App;
+	SPI2TX_RCTPOWER= HTPMsg.OutMessage.Power_Reactive;
+	SPI2TX_PERCPOWER= HTPMsg.OutMessage.PercPowerActual;
+	SPI2TX_FREQUENZA= HTPMsg.OutMessage.Frequenza;
+	SPI2TX_FREQREAL= HTPMsg.OutMessage.FrequenzaReal;
+	SPI2TX_MANIPOLOL= HTPMsg.OutMessage.Manipolo | (HTPMsg.OutMessage.LoadStatus ?128:0);
+	SPI2TX_MODULATOR= HTPMsg.OutMessage.ModulatoreActual;
+	SPI_CalcChkTx();
+}
+
+
+
+
+void HTP_CTRL_Init(void) 
+{
+		SPI2_SetEventHandler(HTP_MessageHandler,(void *)0);
+		SPI2_Init();
+}
+
+void HTP_CTRL_Clk(void)
+{
+	static tHTPInFrame LastFrame ={0,0,0,0};
+	
+	SPI2_Clk();
+	if(HTPMsg.Status &  1)
+	{		
+		HTP_MessageFiller();
+		HTP_MessageSampler();
+		HTPMsg.Status=0;
+		if(HTPMsg.InMessage.Modulazione!=LastFrame.Modulazione)
+		{
+			LastFrame.Modulazione=HTPMsg.InMessage.Modulazione;
+			HTPMsg.OutMessage.ModulatoreActual=CONTROL_SetPulse(LastFrame.Modulazione);
+		}
+		
+		if(HTPMsg.InMessage.Manipolo !=LastFrame.Manipolo)
+		{
+			LastFrame.Manipolo=HTPMsg.InMessage.Manipolo;
+			CONTROL_SetManipolo(LastFrame.Manipolo);
+		}
+
+		if(HTPMsg.InMessage.Frequenza !=LastFrame.Frequenza)
+		{
+			LastFrame.Frequenza=HTPMsg.InMessage.Frequenza;			
+			CONTROL_SetFrequency(LastFrame.Frequenza*10);
+		}
+		if(HTPMsg.InMessage.PercPower !=LastFrame.PercPower)
+		{
+			LastFrame.PercPower=HTPMsg.InMessage.PercPower;
+			CONTROL_SetPercent(LastFrame.PercPower);
+		}
+
+
+		
+	}
+	
+}
+
+
+

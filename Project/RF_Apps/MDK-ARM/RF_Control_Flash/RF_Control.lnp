@@ -1,0 +1,3 @@
+--cpu Cortex-M3 ".\rf_control_flash\main.o" ".\rf_control_flash\control.o" ".\rf_control_flash\diag.o" ".\rf_control_flash\logic.o" ".\rf_control_flash\supervisor.o" ".\rf_control_flash\parser.o" ".\rf_control_flash\control_hpth.o" G:\admin\proxyout\Bench\Cocoon\RF\FW\pr1242a\Project\RF_Apps\MDK-ARM\RF_Control_Flash\HTPBSP.lib ".\rf_control_flash\stm32f10x_it.o" 
+--library_type=microlib --strict --scatter ".\RF_Control_Flash\RF_Control.sct" 
+--summary_stderr --info summarysizes -o .\RF_Control_Flash\RF_Control.axf

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM
+END
+RF_Control.uvgui.dany
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control.uvgui.dany
+END
+RF_Control.uvopt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control.uvopt
+END
+JLinkSettings.ini
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/JLinkSettings.ini
+END
+RF_Control.uvgui.mau
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control.uvgui.mau
+END
+JLinkLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/JLinkLog.txt
+END
+RF_Control.uvproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control.uvproj
+END
+RF_Control_Nodulo_Flash.dep
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control_Nodulo_Flash.dep
+END
+RF_Control.uvgui.admin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control.uvgui.admin
+END
+RF_Control_Nodulo_DFU.dep
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pr1242a/!svn/ver/2/trunk/Project/RF_Control/MDK-ARM/RF_Control_Nodulo_DFU.dep
+END

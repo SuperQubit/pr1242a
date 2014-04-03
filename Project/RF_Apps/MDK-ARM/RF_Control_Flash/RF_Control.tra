@@ -1,0 +1,26 @@
+*** Creating Trace Output File '.\RF_Control_Flash\RF_Control.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\rf_control_flash\main.o"'
+### List of Objects: adding '".\rf_control_flash\control.o"'
+### List of Objects: adding '".\rf_control_flash\diag.o"'
+### List of Objects: adding '".\rf_control_flash\logic.o"'
+### List of Objects: adding '".\rf_control_flash\supervisor.o"'
+### List of Objects: adding '".\rf_control_flash\parser.o"'
+### List of Objects: adding '".\rf_control_flash\control_hpth.o"'
+### List of Objects: adding '".\RF_Control_Flash\HTPBSP.lib"'
+### List of Objects: adding '".\rf_control_flash\stm32f10x_it.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\rf_control_flash\main.o" ".\rf_control_flash\control.o" ".\rf_control_flash\diag.o" ".\rf_control_flash\logic.o" ".\rf_control_flash\supervisor.o" ".\rf_control_flash\parser.o" ".\rf_control_flash\control_hpth.o" G:\admin\proxyout\Bench\Cocoon\RF\FW\pr1242a\Project\RF_Apps\MDK-ARM\RF_Control_Flash\HTPBSP.lib ".\rf_control_flash\stm32f10x_it.o" 
+--library_type=microlib --strict --scatter ".\RF_Control_Flash\RF_Control.sct" 
+--summary_stderr --info summarysizes -o .\RF_Control_Flash\RF_Control.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\RF_Control_Flash\RF_Control.axf'
+### ADS-LD Command File: '.\RF_Control_Flash\RF_Control.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\RF_Control_Flash\RF_Control.lnp', Handle=0x0000039C
+### Writing '.lnp' file
+### ADS-LD Command file '.\RF_Control_Flash\RF_Control.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

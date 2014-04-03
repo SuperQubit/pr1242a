@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/CoreSupport
+END
+core_cm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/CoreSupport/core_cm3.h
+END
+core_cm3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/CoreSupport/core_cm3.c
+END

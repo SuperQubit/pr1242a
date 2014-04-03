@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions
+END
+mbfuncdiag.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfuncdiag.c
+END
+mbfuncholding.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfuncholding.c
+END
+mbutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbutils.c
+END
+mbfunccoils.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfunccoils.c
+END
+mbfuncinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfuncinput.c
+END
+mbfuncother.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfuncother.c
+END
+mbfuncdisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/functions/mbfuncdisc.c
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+3
+http://project.arsilicii.it/svn/pr1242a/trunk/Libraries/freemodbus
+http://project.arsilicii.it/svn/pr1242a
+
+
+
+2013-11-05T11:27:59.701010Z
+2
+dany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21fe7d31-edcc-4407-8983-b5d9556f4060
+
+mb.c
+file
+
+
+
+
+2013-11-05T11:39:24.711232Z
+d13f9b4284d60e7b3d6c80e2834a8577
+2013-11-05T11:27:59.701010Z
+2
+dany
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12908
+
+include
+dir
+
+tcp
+dir
+
+ascii
+dir
+
+functions
+dir
+
+rtu
+dir
+

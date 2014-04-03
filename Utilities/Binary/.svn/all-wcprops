@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary
+END
+axftobin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/axftobin.bat
+END
+hex2bin.exe
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/hex2bin.exe
+END
+axftobin_ilink.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/axftobin_ilink.bat
+END
+hextobin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/hextobin.bat
+END
+arm-elf-objcopy.exe
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/arm-elf-objcopy.exe
+END
+axftobin_diesse.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/axftobin_diesse.bat
+END
+cygwin1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/cygwin1.dll
+END
+TrueSTUDIO_elf2bin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pr1242a/!svn/ver/2/trunk/Utilities/Binary/TrueSTUDIO_elf2bin.bat
+END

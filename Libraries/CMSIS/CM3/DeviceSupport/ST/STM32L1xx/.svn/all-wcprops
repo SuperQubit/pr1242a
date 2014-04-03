@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx
+END
+system_stm32l1xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/system_stm32l1xx.h
+END
+system_stm32l1xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/system_stm32l1xx.c
+END
+Release_Notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/Release_Notes.html
+END
+stm32l1xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32L1xx/stm32l1xx.h
+END

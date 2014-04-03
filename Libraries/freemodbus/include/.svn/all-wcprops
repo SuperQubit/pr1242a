@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include
+END
+mbframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbframe.h
+END
+mbfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbfunc.h
+END
+mb.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mb.h
+END
+mbutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbutils.h
+END
+mbproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbproto.h
+END
+mbport.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbport.h
+END
+mbconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pr1242a/!svn/ver/2/trunk/Libraries/freemodbus/include/mbconfig.h
+END
